@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @whispah721
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning discord.js
+- 🌱 I’m currently learning 
 - 📫 How to reach me ... on Discord @ whispah#0721
 <!---
 whispah721/whispah721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
